@@ -2,4 +2,4 @@
 
 (todo)
 
-Data can be downloaded at [insert link here]
+The data (DutchTwitterData.csv) can be downloaded at [insert link here]
